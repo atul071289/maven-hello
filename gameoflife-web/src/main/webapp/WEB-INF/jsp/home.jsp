@@ -61,7 +61,7 @@ li {
 </style>
 </head>
 <body>
-<h3>Welcome to CONWAY's Game Of Life!</h3>
+<h3>Welcome to VISUAL's Game Of Life!</h3>
 <div class="intro">
 <p>This is a really cool web version of Conway's famous Game Of
 Life. The Game of Life is a cellular automaton devised by the British
